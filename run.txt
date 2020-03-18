@@ -1,0 +1,4 @@
+API:
+cd symptoapi
+source activate ~/.venv/symptoapi/bin/activate
+while true; do python main.py ; echo CTRL+C to really quit; sleep 3; done

@@ -1,0 +1,14 @@
+Flask>=1.0.0
+google-cloud-datastore>=1.7.1
+Flask-SQLAlchemy>=2.3.2
+oauth2client>=4.1.2
+six>=1.11.0
+psycopg2>=2.8.3
+gunicorn>=19.3.0
+google-api-python-client
+google-auth>=1.6.3
+google-auth-oauthlib>=0.4.0
+google-auth-httplib2>=0.0.3
+jsons>=0.10.1
+google-cloud-storage>=1.13.2
+sqlalchemy-migrate>=0.12.0
