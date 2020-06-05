@@ -3727,9 +3727,9 @@ log-symbols@^2.2.0:
   dependencies:
     chalk "^2.0.1"
 
-logkitty@0.7.0:
-  version "0.7.0"
-  resolved "https://registry.yarnpkg.com/logkitty/-/logkitty-0.7.0.tgz#38d76b93ff493712a265bd77f0cfa649c6b6cdde"
+logkitty@0.7.1:
+  version "0.7.1"
+  resolved "https://registry.yarnpkg.com/logkitty/-/logkitty-0.7.1.tgz#8e8d62f4085a826e8d38987722570234e33c6aa7"
   dependencies:
     ansi-fragments "^0.2.1"
     dayjs "^1.8.15"
@@ -3797,13 +3797,19 @@ map-visit@^1.0.0:
   dependencies:
     object-visit "^1.0.0"
 
-mem@4.3.0, mem@^4.0.0, mem@^4.3.0:
+mem@4.3.0, mem@^4.0.0:
   version "4.3.0"
   resolved "https://registry.yarnpkg.com/mem/-/mem-4.3.0.tgz#461af497bc4ae09608cdb2e60eefb69bff744178"
   dependencies:
     map-age-cleaner "^0.1.1"
     mimic-fn "^2.0.0"
     p-is-promise "^2.0.0"
+
+mem@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/mem/-/mem-1.1.0.tgz#5edd52b485ca1d900fe64895505399a0dfa45f76"
+  dependencies:
+    mimic-fn "^1.0.0"
 
 merge-stream@^1.0.1:
   version "1.0.1"
